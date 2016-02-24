@@ -1,0 +1,32 @@
+{
+    "facebooksettings": null,
+    "lastModified": 1456307571123,
+    "translation": 
+    {
+        
+    },
+    "googlesettings": null,
+    "pushsettings": null,
+    "collection": 
+    {
+        
+    },
+    "script": 
+    {
+        "function-customgitone": 
+        {
+            "trigger": "function",
+            "md5_checksum": "MD5",
+            "name": "customgitone",
+            "filename": "customgitone.js",
+            "collection": "",
+            "script_id": null
+        },
+    },
+    "realtimesettings": null,
+    "paypalsettings": null,
+    "environment": "development",
+    "kongregateApiKey": null,
+    "gitbranch": 0.0.1,
+    "activitylogstate": -1
+}
