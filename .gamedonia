@@ -27,6 +27,6 @@
     "paypalsettings": null,
     "environment": "development",
     "kongregateApiKey": null,
-    "gitbranch": "0.0.1",
+    "scbranch": "0.0.1",
     "activitylogstate": -1
 }
