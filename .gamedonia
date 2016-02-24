@@ -21,12 +21,12 @@
             "filename": "customgitone.js",
             "collection": "",
             "script_id": null
-        },
+        }
     },
     "realtimesettings": null,
     "paypalsettings": null,
     "environment": "development",
     "kongregateApiKey": null,
-    "gitbranch": 0.0.1,
+    "gitbranch": "0.0.1",
     "activitylogstate": -1
 }
