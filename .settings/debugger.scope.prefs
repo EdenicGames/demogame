@@ -4,5 +4,5 @@ gameId=4f06c51c-5bd9-45f1-80f2-671dfe1017e6
 masterApiKey=f64f20e4-7e11-43a7-8af2-b8a52dbf76a4
 proxyPort=8181
 secret=1b9c886bc75e7dcf1a02416c0f6f8720
-structure=[{"name"\:"jobone","collection"\:null,"trigger"\:"job","filename"\:"jobone.js","md5_checksum"\:"MD5"},{"name"\:"preplayers","collection"\:"players","trigger"\:"presave","filename"\:"preplayers.js","md5_checksum"\:"MD5"},{"name"\:"commonone","collection"\:null,"trigger"\:"util","filename"\:"commonone.js","md5_checksum"\:"MD5"},{"name"\:"postusers","collection"\:"_users","trigger"\:"postsave","filename"\:"postusers.js","md5_checksum"\:"MD5"},{"name"\:"customfour","collection"\:"null","trigger"\:"function","filename"\:"customfour.js","md5_checksum"\:"MD5"}]
+structure=[{"name"\:"jobone","collection"\:null,"trigger"\:"job","filename"\:"jobone.js","md5_checksum"\:"MD5"},{"name"\:"preplayers","collection"\:"players","trigger"\:"presave","filename"\:"preplayers.js","md5_checksum"\:"MD5"},{"name"\:"commonone","collection"\:null,"trigger"\:"util","filename"\:"commonone.js","md5_checksum"\:"MD5"},{"name"\:"postusers","collection"\:"_users","trigger"\:"postsave","filename"\:"postusers.js","md5_checksum"\:"MD5"},{"name"\:"customfour","collection"\:null,"trigger"\:"function","filename"\:"customfour.js","md5_checksum"\:"MD5"}]
 url=http\://staging.gamedonia.com\:8080/v1
